@@ -1,0 +1,9 @@
+C:\Users\m.aslam\source\repos\Training\03_DynamicPropertiesWithXMLFile\bin\Debug\03_DynamicPropertiesWithXMLFile.dll
+C:\Users\m.aslam\source\repos\Training\03_DynamicPropertiesWithXMLFile\bin\Debug\03_DynamicPropertiesWithXMLFile.pdb
+C:\Users\m.aslam\source\repos\Training\03_DynamicPropertiesWithXMLFile\bin\Debug\03_DynamicPropertiesWithXMLFile.scadaAddIn
+C:\Users\m.aslam\source\repos\Training\03_DynamicPropertiesWithXMLFile\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\m.aslam\source\repos\Training\03_DynamicPropertiesWithXMLFile\obj\Debug\03_DynamicPropertiesWithXMLFile.csproj.AssemblyReference.cache
+C:\Users\m.aslam\source\repos\Training\03_DynamicPropertiesWithXMLFile\obj\Debug\03_DynamicPropertiesWithXMLFile.csproj.CoreCompileInputs.cache
+C:\Users\m.aslam\source\repos\Training\03_DynamicPropertiesWithXMLFile\obj\Debug\03_DynamicPropertiesWithXMLFile.csproj.CopyComplete
+C:\Users\m.aslam\source\repos\Training\03_DynamicPropertiesWithXMLFile\obj\Debug\03_DynamicPropertiesWithXMLFile.dll
+C:\Users\m.aslam\source\repos\Training\03_DynamicPropertiesWithXMLFile\obj\Debug\03_DynamicPropertiesWithXMLFile.pdb

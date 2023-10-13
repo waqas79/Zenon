@@ -1,0 +1,8 @@
+C:\Users\m.aslam\source\repos\Training\ABT_AlarmsTextList\bin\Debug\ABT_AlarmsTextList.dll
+C:\Users\m.aslam\source\repos\Training\ABT_AlarmsTextList\bin\Debug\ABT_AlarmsTextList.pdb
+C:\Users\m.aslam\source\repos\Training\ABT_AlarmsTextList\bin\Debug\ABT_AlarmsTextList.scadaAddIn
+C:\Users\m.aslam\source\repos\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTextList.csproj.AssemblyReference.cache
+C:\Users\m.aslam\source\repos\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTextList.csproj.CoreCompileInputs.cache
+C:\Users\m.aslam\source\repos\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTextList.csproj.CopyComplete
+C:\Users\m.aslam\source\repos\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTextList.dll
+C:\Users\m.aslam\source\repos\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTextList.pdb

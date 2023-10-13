@@ -1,0 +1,8 @@
+C:\Users\m.aslam\source\repos\Training\02_DynamicProperties\bin\Debug\02_DynamicProperties.dll
+C:\Users\m.aslam\source\repos\Training\02_DynamicProperties\bin\Debug\02_DynamicProperties.pdb
+C:\Users\m.aslam\source\repos\Training\02_DynamicProperties\bin\Debug\02_DynamicProperties.scadaAddIn
+C:\Users\m.aslam\source\repos\Training\02_DynamicProperties\obj\Debug\02_DynamicProperties.csproj.AssemblyReference.cache
+C:\Users\m.aslam\source\repos\Training\02_DynamicProperties\obj\Debug\02_DynamicProperties.csproj.CoreCompileInputs.cache
+C:\Users\m.aslam\source\repos\Training\02_DynamicProperties\obj\Debug\02_DynamicProperties.csproj.CopyComplete
+C:\Users\m.aslam\source\repos\Training\02_DynamicProperties\obj\Debug\02_DynamicProperties.dll
+C:\Users\m.aslam\source\repos\Training\02_DynamicProperties\obj\Debug\02_DynamicProperties.pdb

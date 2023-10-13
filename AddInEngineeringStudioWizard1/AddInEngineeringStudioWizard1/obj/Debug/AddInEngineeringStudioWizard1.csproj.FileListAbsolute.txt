@@ -1,0 +1,9 @@
+C:\Users\m.aslam\source\repos\AddInEngineeringStudioWizard1\AddInEngineeringStudioWizard1\bin\Debug\AddInEngineeringStudioWizard1.dll
+C:\Users\m.aslam\source\repos\AddInEngineeringStudioWizard1\AddInEngineeringStudioWizard1\bin\Debug\AddInEngineeringStudioWizard1.pdb
+C:\Users\m.aslam\source\repos\AddInEngineeringStudioWizard1\AddInEngineeringStudioWizard1\bin\Debug\AddInEngineeringStudioWizard1.scadaAddIn
+C:\Users\m.aslam\source\repos\AddInEngineeringStudioWizard1\AddInEngineeringStudioWizard1\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\m.aslam\source\repos\AddInEngineeringStudioWizard1\AddInEngineeringStudioWizard1\obj\Debug\AddInEngineeringStudioWizard1.csprojAssemblyReference.cache
+C:\Users\m.aslam\source\repos\AddInEngineeringStudioWizard1\AddInEngineeringStudioWizard1\obj\Debug\AddInEngineeringStudioWizard1.csproj.CoreCompileInputs.cache
+C:\Users\m.aslam\source\repos\AddInEngineeringStudioWizard1\AddInEngineeringStudioWizard1\obj\Debug\AddInEngineeringStudioWizard1.csproj.CopyComplete
+C:\Users\m.aslam\source\repos\AddInEngineeringStudioWizard1\AddInEngineeringStudioWizard1\obj\Debug\AddInEngineeringStudioWizard1.dll
+C:\Users\m.aslam\source\repos\AddInEngineeringStudioWizard1\AddInEngineeringStudioWizard1\obj\Debug\AddInEngineeringStudioWizard1.pdb

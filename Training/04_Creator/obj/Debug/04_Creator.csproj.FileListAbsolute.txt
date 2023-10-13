@@ -1,0 +1,8 @@
+C:\Users\m.aslam\source\repos\Training\04_Creator\bin\Debug\04_Creator.dll
+C:\Users\m.aslam\source\repos\Training\04_Creator\bin\Debug\04_Creator.pdb
+C:\Users\m.aslam\source\repos\Training\04_Creator\bin\Debug\04_Creator.scadaAddIn
+C:\Users\m.aslam\source\repos\Training\04_Creator\obj\Debug\04_Creator.csproj.AssemblyReference.cache
+C:\Users\m.aslam\source\repos\Training\04_Creator\obj\Debug\04_Creator.csproj.CoreCompileInputs.cache
+C:\Users\m.aslam\source\repos\Training\04_Creator\obj\Debug\04_Creator.csproj.CopyComplete
+C:\Users\m.aslam\source\repos\Training\04_Creator\obj\Debug\04_Creator.dll
+C:\Users\m.aslam\source\repos\Training\04_Creator\obj\Debug\04_Creator.pdb
