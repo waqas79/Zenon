@@ -24,8 +24,8 @@ namespace _04_Creator
             //creator.CreateScreen("000 Testing Screen", "03_bildbereich");
             //creator.CreateDriver("TestDriver", "3S_V3");
             //creator.CreateVariable("System.testingAPI", "TestDriver", Scada.AddIn.Contracts.Variable.ChannelType.DriverVariable, "INT");
-            creator.CreateRGM("RecipeAlarmText", "System.AlarmText");
-
+            //creator.CreateRGM("RecipeAlarmText", "System.AlarmText");
+            /*
             string RecipePre = "Help_Alarm ";
             string recipeName = "";
 
@@ -35,6 +35,25 @@ namespace _04_Creator
                 recipeName = string.Concat(RecipePre, RecipePost);
                 creator.CreateRecipe(recipeName, "RecipeAlarmText");
             }
+            */
+
+            string orgFuncName = "00 - 04 - 01 _ 1 _AlarmHelpText_RecScreen";
+
+            string newFuncName_p1 = "00 - 04 - 01 _ ";
+            string newFuncName_p3 = " _AlarmHelpText_RecScreen";
+
+            string Recipe_P1 = "Help_Alarm ";
+
+            for (int i = 2; i < 51; i++)
+            {
+                string i_looping = string.Format("{0}", i);
+                string newFuncName = string.Concat(newFuncName_p1, i_looping , newFuncName_p3);
+                string RecipeName = string.Concat(Recipe_P1, i_looping);
+                creator.CopyFucntion(orgFuncName, newFuncName, RecipeName);
+            }
+            
+
+
         }
         #endregion
     }

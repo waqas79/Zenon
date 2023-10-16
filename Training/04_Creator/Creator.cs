@@ -206,15 +206,36 @@ namespace _04_Creator
                 myProject.Parent.Parent.DebugPrint("Recipe named " + recipeName + " already exists....", DebugPrintStyle.Warning);
             }
         }
-        public void CopyFucntion(string orgFunction , string newFunction)
+        public void CopyFucntion(string orgFunction , string newFunction, string RecipeSelection)
         {
             IFunction zFun = myProject.FunctionCollection[orgFunction];
-            //create new function ...................................
-            IFunction zFctCopy = myProject.FunctionCollection.Create(newFunction, FunctionType.ScreenSwitch );
-            //copy existing function settings to new one...
-            //Debug.Print zFctCopy.Copy(zFct)
-            
+            myProject.Parent.Parent.DebugPrint("Original fucntion name is : "+ orgFunction + "", DebugPrintStyle.Standard);
+            myProject.Parent.Parent.DebugPrint("New fucntion name is : " + newFunction + "", DebugPrintStyle.Standard);
+            // Check the old function is avaialable or not ..... 
+           
+            if (zFun != null) 
+            {
+                IFunction zFctCopy = myProject.FunctionCollection.Create(newFunction, FunctionType.ScreenSwitch);
+                if (zFun == zFctCopy)
+                {
+                    myProject.Parent.Parent.DebugPrint("name of Copying and traget fucntion is same .... ", DebugPrintStyle.Error);
+                    return; 
+                }
+                zFctCopy.Duplicate(zFun);
+                myProject.Parent.Parent.DebugPrint("New fucntion : " + newFunction + " is copied from " + orgFunction, DebugPrintStyle.Standard);
+                zFctCopy.SetDynamicProperty("PictFilter.Recipe", RecipeSelection);
+                myProject.Parent.Parent.DebugPrint("RecipeSelection of " + newFunction + " is changed with " + RecipeSelection, DebugPrintStyle.Standard);
+            }
+            else
+            {
+                myProject.Parent.Parent.DebugPrint("Original fucntion " + orgFunction + " is not in project ...", DebugPrintStyle.Error);
+                return;
+            }
 
+            //create new function ...................................
+
+            
+           
         }
 
     }
