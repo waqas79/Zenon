@@ -227,19 +227,7 @@ namespace _04_Creator
                 myProject.Parent.Parent.DebugPrint("Error in creation of New Funcion: " + ex.Message, DebugPrintStyle.Error);
                 return;
             }
-            
-            
-                
-            
-            //}
-            //else
-            //{
-            //    myProject.Parent.Parent.DebugPrint("Original fucntion " + orgFunction + " is not in project ...", DebugPrintStyle.Error);
-            //    return;
-            //}
-
-            //create new function ...................................
-
+            // Working related to for loop .... 
             
            
         }
