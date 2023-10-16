@@ -228,19 +228,6 @@ namespace _04_Creator
                 return;
             }
             
-            
-                
-            
-            //}
-            //else
-            //{
-            //    myProject.Parent.Parent.DebugPrint("Original fucntion " + orgFunction + " is not in project ...", DebugPrintStyle.Error);
-            //    return;
-            //}
-
-            //create new function ...................................
-
-            
            
         }
 
