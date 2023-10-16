@@ -11,8 +11,7 @@ namespace ABT_AlarmsTextList
 {
     internal class CreateRecipe
     {
-        IProject myProject = null; // dec a myProject;
-        IVariable var_AlarmText;
+        
 
         public CreateRecipe(IProject zProject)
             // check the active project and assign it to varable myproject ... 
@@ -21,13 +20,9 @@ namespace ABT_AlarmsTextList
             {
                 System.Diagnostics.Debug.Print("None is CreateRecipe");
             }
-            myProject = zProject;
+            
         }
 
-        public bool CreateRecipie(String RecipeName)
-        {
-            myProject.RecipeGroupCollection.GroupJoin
-            var_AlarmText = myProject.VariableCollection["System.AlarmText"]; }
 
     }
 }

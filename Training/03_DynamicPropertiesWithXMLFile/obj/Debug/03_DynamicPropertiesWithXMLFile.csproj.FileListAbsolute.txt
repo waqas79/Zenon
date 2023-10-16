@@ -7,3 +7,12 @@ C:\Users\m.aslam\source\repos\Training\03_DynamicPropertiesWithXMLFile\obj\Debug
 C:\Users\m.aslam\source\repos\Training\03_DynamicPropertiesWithXMLFile\obj\Debug\03_DynamicPropertiesWithXMLFile.csproj.CopyComplete
 C:\Users\m.aslam\source\repos\Training\03_DynamicPropertiesWithXMLFile\obj\Debug\03_DynamicPropertiesWithXMLFile.dll
 C:\Users\m.aslam\source\repos\Training\03_DynamicPropertiesWithXMLFile\obj\Debug\03_DynamicPropertiesWithXMLFile.pdb
+C:\01 Coding\Zenon\Training\03_DynamicPropertiesWithXMLFile\bin\Debug\03_DynamicPropertiesWithXMLFile.dll
+C:\01 Coding\Zenon\Training\03_DynamicPropertiesWithXMLFile\bin\Debug\03_DynamicPropertiesWithXMLFile.pdb
+C:\01 Coding\Zenon\Training\03_DynamicPropertiesWithXMLFile\bin\Debug\03_DynamicPropertiesWithXMLFile.scadaAddIn
+C:\01 Coding\Zenon\Training\03_DynamicPropertiesWithXMLFile\bin\Debug\Scada.AddIn.Contracts.xml
+C:\01 Coding\Zenon\Training\03_DynamicPropertiesWithXMLFile\obj\Debug\03_DynamicPropertiesWithXMLFile.csproj.AssemblyReference.cache
+C:\01 Coding\Zenon\Training\03_DynamicPropertiesWithXMLFile\obj\Debug\03_DynamicPropertiesWithXMLFile.csproj.CoreCompileInputs.cache
+C:\01 Coding\Zenon\Training\03_DynamicPropertiesWithXMLFile\obj\Debug\03_DynamicPropertiesWithXMLFile.csproj.CopyComplete
+C:\01 Coding\Zenon\Training\03_DynamicPropertiesWithXMLFile\obj\Debug\03_DynamicPropertiesWithXMLFile.dll
+C:\01 Coding\Zenon\Training\03_DynamicPropertiesWithXMLFile\obj\Debug\03_DynamicPropertiesWithXMLFile.pdb

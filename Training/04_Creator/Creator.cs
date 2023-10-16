@@ -209,28 +209,34 @@ namespace _04_Creator
         public void CopyFucntion(string orgFunction , string newFunction, string RecipeSelection)
         {
             IFunction zFun = myProject.FunctionCollection[orgFunction];
-            myProject.Parent.Parent.DebugPrint("Original fucntion name is : "+ orgFunction + "", DebugPrintStyle.Standard);
-            myProject.Parent.Parent.DebugPrint("New fucntion name is : " + newFunction + "", DebugPrintStyle.Standard);
-            // Check the old function is avaialable or not ..... 
-           
-            if (zFun != null) 
+            myProject.Parent.Parent.DebugPrint("Org Fucntion name is :"+ orgFunction + ":", DebugPrintStyle.Standard);
+
+            try
             {
                 IFunction zFctCopy = myProject.FunctionCollection.Create(newFunction, FunctionType.ScreenSwitch);
-                if (zFun == zFctCopy)
-                {
-                    myProject.Parent.Parent.DebugPrint("name of Copying and traget fucntion is same .... ", DebugPrintStyle.Error);
-                    return; 
-                }
+                myProject.Parent.Parent.DebugPrint("New fucntion name is :" + newFunction + ":", DebugPrintStyle.Standard);
+
                 zFctCopy.Duplicate(zFun);
                 myProject.Parent.Parent.DebugPrint("New fucntion : " + newFunction + " is copied from " + orgFunction, DebugPrintStyle.Standard);
                 zFctCopy.SetDynamicProperty("PictFilter.Recipe", RecipeSelection);
                 myProject.Parent.Parent.DebugPrint("RecipeSelection of " + newFunction + " is changed with " + RecipeSelection, DebugPrintStyle.Standard);
+
             }
-            else
+            catch (Exception ex) 
             {
-                myProject.Parent.Parent.DebugPrint("Original fucntion " + orgFunction + " is not in project ...", DebugPrintStyle.Error);
+                myProject.Parent.Parent.DebugPrint("Error in creation of New Funcion: " + ex.Message, DebugPrintStyle.Error);
                 return;
             }
+            
+            
+                
+            
+            //}
+            //else
+            //{
+            //    myProject.Parent.Parent.DebugPrint("Original fucntion " + orgFunction + " is not in project ...", DebugPrintStyle.Error);
+            //    return;
+            //}
 
             //create new function ...................................
 

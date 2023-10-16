@@ -44,7 +44,7 @@ namespace _04_Creator
 
             string Recipe_P1 = "Help_Alarm ";
 
-            for (int i = 2; i < 51; i++)
+            for (int i = 50; i < 5001; i++)
             {
                 string i_looping = string.Format("{0}", i);
                 string newFuncName = string.Concat(newFuncName_p1, i_looping , newFuncName_p3);
@@ -58,3 +58,4 @@ namespace _04_Creator
         #endregion
     }
 }
+

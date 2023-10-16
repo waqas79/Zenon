@@ -6,3 +6,11 @@ C:\Users\m.aslam\source\repos\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTe
 C:\Users\m.aslam\source\repos\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTextList.csproj.CopyComplete
 C:\Users\m.aslam\source\repos\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTextList.dll
 C:\Users\m.aslam\source\repos\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTextList.pdb
+C:\01 Coding\Zenon\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTextList.csproj.AssemblyReference.cache
+C:\01 Coding\Zenon\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTextList.csproj.CoreCompileInputs.cache
+C:\01 Coding\Zenon\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTextList.dll
+C:\01 Coding\Zenon\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTextList.pdb
+C:\01 Coding\Zenon\Training\ABT_AlarmsTextList\bin\Debug\ABT_AlarmsTextList.dll
+C:\01 Coding\Zenon\Training\ABT_AlarmsTextList\bin\Debug\ABT_AlarmsTextList.pdb
+C:\01 Coding\Zenon\Training\ABT_AlarmsTextList\bin\Debug\ABT_AlarmsTextList.scadaAddIn
+C:\01 Coding\Zenon\Training\ABT_AlarmsTextList\obj\Debug\ABT_AlarmsTextList.csproj.CopyComplete

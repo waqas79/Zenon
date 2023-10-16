@@ -6,3 +6,11 @@ C:\Users\m.aslam\source\repos\Training\01_HelloWorld\obj\Debug\01_HelloWorld.csp
 C:\Users\m.aslam\source\repos\Training\01_HelloWorld\obj\Debug\01_HelloWorld.csproj.CopyComplete
 C:\Users\m.aslam\source\repos\Training\01_HelloWorld\obj\Debug\01_HelloWorld.dll
 C:\Users\m.aslam\source\repos\Training\01_HelloWorld\obj\Debug\01_HelloWorld.pdb
+C:\01 Coding\Zenon\Training\01_HelloWorld\bin\Debug\01_HelloWorld.dll
+C:\01 Coding\Zenon\Training\01_HelloWorld\bin\Debug\01_HelloWorld.pdb
+C:\01 Coding\Zenon\Training\01_HelloWorld\bin\Debug\01_HelloWorld.scadaAddIn
+C:\01 Coding\Zenon\Training\01_HelloWorld\obj\Debug\01_HelloWorld.csproj.AssemblyReference.cache
+C:\01 Coding\Zenon\Training\01_HelloWorld\obj\Debug\01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\01 Coding\Zenon\Training\01_HelloWorld\obj\Debug\01_HelloWorld.csproj.CopyComplete
+C:\01 Coding\Zenon\Training\01_HelloWorld\obj\Debug\01_HelloWorld.dll
+C:\01 Coding\Zenon\Training\01_HelloWorld\obj\Debug\01_HelloWorld.pdb
