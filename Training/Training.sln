@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Creator", "04_Creator\04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABT_AlarmsTextList", "ABT_AlarmsTextList\ABT_AlarmsTextList.csproj", "{D607373D-89CA-4017-B8F8-7C1C4B5E7788}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 RefAlarmHelp2Variable", "05 RefAlarmHelp2Variable\05 RefAlarmHelp2Variable.csproj", "{D39164B5-44BD-4931-B64E-6B3BED95423D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,12 @@ Global
 		{D607373D-89CA-4017-B8F8-7C1C4B5E7788}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D607373D-89CA-4017-B8F8-7C1C4B5E7788}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D607373D-89CA-4017-B8F8-7C1C4B5E7788}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D39164B5-44BD-4931-B64E-6B3BED95423D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39164B5-44BD-4931-B64E-6B3BED95423D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39164B5-44BD-4931-B64E-6B3BED95423D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D39164B5-44BD-4931-B64E-6B3BED95423D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39164B5-44BD-4931-B64E-6B3BED95423D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39164B5-44BD-4931-B64E-6B3BED95423D}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

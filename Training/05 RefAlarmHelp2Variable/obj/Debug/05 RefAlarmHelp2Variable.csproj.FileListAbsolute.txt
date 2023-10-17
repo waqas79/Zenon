@@ -1,0 +1,9 @@
+C:\01 Coding\Zenon\Training\05 RefAlarmHelp2Variable\bin\Debug\05 RefAlarmHelp2Variable.dll
+C:\01 Coding\Zenon\Training\05 RefAlarmHelp2Variable\bin\Debug\05 RefAlarmHelp2Variable.pdb
+C:\01 Coding\Zenon\Training\05 RefAlarmHelp2Variable\bin\Debug\05 RefAlarmHelp2Variable.scadaAddIn
+C:\01 Coding\Zenon\Training\05 RefAlarmHelp2Variable\bin\Debug\Scada.AddIn.Contracts.xml
+C:\01 Coding\Zenon\Training\05 RefAlarmHelp2Variable\obj\Debug\05 RefAlarmHelp2Variable.csproj.AssemblyReference.cache
+C:\01 Coding\Zenon\Training\05 RefAlarmHelp2Variable\obj\Debug\05 RefAlarmHelp2Variable.csproj.CoreCompileInputs.cache
+C:\01 Coding\Zenon\Training\05 RefAlarmHelp2Variable\obj\Debug\05 RefAlarmHelp2Variable.csproj.CopyComplete
+C:\01 Coding\Zenon\Training\05 RefAlarmHelp2Variable\obj\Debug\05 RefAlarmHelp2Variable.dll
+C:\01 Coding\Zenon\Training\05 RefAlarmHelp2Variable\obj\Debug\05 RefAlarmHelp2Variable.pdb
