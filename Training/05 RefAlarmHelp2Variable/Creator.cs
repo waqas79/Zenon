@@ -19,7 +19,7 @@ namespace _05_RefAlarmHelp2Variable
             
             
         }
-        public void Helptext_loop (string errorName , int FirstErrorNo)
+        public void Helptext_loop (string errorName , int FirstErrorNo )
         {
             subHelpText2Alarm Sis = new subHelpText2Alarm(myproject);
 
@@ -28,6 +28,7 @@ namespace _05_RefAlarmHelp2Variable
 
             string newFuncName_p1 = "00 - 04 - 01 _ ";
             string newFuncName_p3 = " _AlarmHelpText_RecScreen";
+           
 
 
 

@@ -21,9 +21,6 @@ namespace _05_RefAlarmHelp2Variable
             creator.Helptext_loop("ELB_Error_040", 2249);
             creator.Helptext_loop("ELB_Error_050", 2265);
 
-
-
-
         }
         #endregion
     }
