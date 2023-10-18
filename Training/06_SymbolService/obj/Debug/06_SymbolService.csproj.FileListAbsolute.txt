@@ -1,0 +1,4 @@
+C:\01 Coding\Zenon\Training\06_SymbolService\obj\Debug\06_SymbolService.csproj.AssemblyReference.cache
+C:\01 Coding\Zenon\Training\06_SymbolService\obj\Debug\_06_SymbolService.SymbolWindow.resources
+C:\01 Coding\Zenon\Training\06_SymbolService\obj\Debug\06_SymbolService.csproj.GenerateResource.cache
+C:\01 Coding\Zenon\Training\06_SymbolService\obj\Debug\06_SymbolService.csproj.CoreCompileInputs.cache

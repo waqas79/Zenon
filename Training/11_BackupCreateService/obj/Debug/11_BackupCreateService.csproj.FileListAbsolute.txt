@@ -1,0 +1,9 @@
+C:\01 Coding\Zenon\Training\11_BackupCreateService\bin\Debug\11_BackupCreateService.dll
+C:\01 Coding\Zenon\Training\11_BackupCreateService\bin\Debug\11_BackupCreateService.pdb
+C:\01 Coding\Zenon\Training\11_BackupCreateService\bin\Debug\11_BackupCreateService.scadaAddIn
+C:\01 Coding\Zenon\Training\11_BackupCreateService\bin\Debug\Scada.AddIn.Contracts.xml
+C:\01 Coding\Zenon\Training\11_BackupCreateService\obj\Debug\11_BackupCreateService.csproj.AssemblyReference.cache
+C:\01 Coding\Zenon\Training\11_BackupCreateService\obj\Debug\11_BackupCreateService.csproj.CoreCompileInputs.cache
+C:\01 Coding\Zenon\Training\11_BackupCreateService\obj\Debug\11_BackupCreateService.csproj.CopyComplete
+C:\01 Coding\Zenon\Training\11_BackupCreateService\obj\Debug\11_BackupCreateService.dll
+C:\01 Coding\Zenon\Training\11_BackupCreateService\obj\Debug\11_BackupCreateService.pdb

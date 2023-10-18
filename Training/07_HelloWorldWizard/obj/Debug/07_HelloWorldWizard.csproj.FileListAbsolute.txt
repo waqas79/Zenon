@@ -1,0 +1,9 @@
+C:\01 Coding\Zenon\Training\07_HelloWorldWizard\bin\Debug\07_HelloWorldWizard.dll
+C:\01 Coding\Zenon\Training\07_HelloWorldWizard\bin\Debug\07_HelloWorldWizard.pdb
+C:\01 Coding\Zenon\Training\07_HelloWorldWizard\bin\Debug\07_HelloWorldWizard.scadaAddIn
+C:\01 Coding\Zenon\Training\07_HelloWorldWizard\bin\Debug\Scada.AddIn.Contracts.xml
+C:\01 Coding\Zenon\Training\07_HelloWorldWizard\obj\Debug\07_HelloWorldWizard.csproj.AssemblyReference.cache
+C:\01 Coding\Zenon\Training\07_HelloWorldWizard\obj\Debug\07_HelloWorldWizard.csproj.CoreCompileInputs.cache
+C:\01 Coding\Zenon\Training\07_HelloWorldWizard\obj\Debug\07_HelloWorldWizard.csproj.CopyComplete
+C:\01 Coding\Zenon\Training\07_HelloWorldWizard\obj\Debug\07_HelloWorldWizard.dll
+C:\01 Coding\Zenon\Training\07_HelloWorldWizard\obj\Debug\07_HelloWorldWizard.pdb

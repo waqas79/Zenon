@@ -123,6 +123,7 @@ namespace _05_RefAlarmHelp2Variable
             creator.Helptext_loop("Anlage_Error_13", 233);
             creator.Helptext_loop("Anlage_Error_14", 249);
             creator.Helptext_loop("Anlage_Error_15", 265);
+            /*
             // Anlage Hint indexing
             creator.Helptext_loop("Anlage_Hint_01", 5101);
             creator.Helptext_loop("Anlage_Hint_02", 5117);
@@ -133,6 +134,49 @@ namespace _05_RefAlarmHelp2Variable
             creator.Helptext_loop("Anlage_Warning_02", 5017);
             creator.Helptext_loop("Anlage_Warning_03", 5033);
             creator.Helptext_loop("Anlage_Warning_04", 5049);
+            */
+
+            // BAG1 Error indexing
+            creator.Helptext_loop("BAG1_Allg_Error_010", 401);
+            creator.Helptext_loop("BAG1_Allg_Error_020", 417);
+            creator.Helptext_loop("BAG1_Allg_Error_030", 433);
+            creator.Helptext_loop("BAG1_ASE_Error_010",  545);
+            creator.Helptext_loop("BAG1_ASE_Error_020",  561);
+            creator.Helptext_loop("BAG1_DRT_Error_010",  513);
+            creator.Helptext_loop("BAG1_DRT_Error_020",  529);
+            creator.Helptext_loop("BAG1_FALT_Error_010", 641);
+            creator.Helptext_loop("BAG1_FALT_Error_020", 657);
+            creator.Helptext_loop("BAG1_HOH_Error_010",  673);
+            creator.Helptext_loop("BAG1_HOH_Error_020",  689);
+            creator.Helptext_loop("BAG1_MAG_Error_010",  449);
+            creator.Helptext_loop("BAG1_MAG_Error_020",  465);
+            creator.Helptext_loop("BAG1_SEP_Error_010",  481);
+            creator.Helptext_loop("BAG1_SEP_Error_020",  497);
+            creator.Helptext_loop("BAG1_SWO_Error_010",  577);
+            creator.Helptext_loop("BAG1_SWO_Error_020",  593);
+            creator.Helptext_loop("BAG1_SWU_Error_010",  609);
+            creator.Helptext_loop("BAG1_SWU_Error_020",  625);
+            // BAG2 Error indexing
+            creator.Helptext_loop("BAG2_Allg_Error_010",1401);
+            creator.Helptext_loop("BAG2_Allg_Error_020",1417);
+            creator.Helptext_loop("BAG2_Allg_Error_030",1433);
+            creator.Helptext_loop("BAG2_ASE_Error_010", 1545);
+            creator.Helptext_loop("BAG2_ASE_Error_020", 1561);
+            creator.Helptext_loop("BAG2_DRT_Error_010", 1513);
+            creator.Helptext_loop("BAG2_DRT_Error_020", 1529);
+            creator.Helptext_loop("BAG2_FALT_Error_010",1641);
+            creator.Helptext_loop("BAG2_FALT_Error_020",1657);
+            creator.Helptext_loop("BAG2_HOH_Error_010", 1673);
+            creator.Helptext_loop("BAG2_HOH_Error_020", 1689);
+            creator.Helptext_loop("BAG2_MAG_Error_010", 1449);
+            creator.Helptext_loop("BAG2_MAG_Error_020", 1465);
+            creator.Helptext_loop("BAG2_SEP_Error_010", 1481);
+            creator.Helptext_loop("BAG2_SEP_Error_020", 1497);
+            creator.Helptext_loop("BAG2_SWO_Error_010", 1577);
+            creator.Helptext_loop("BAG2_SWO_Error_020", 1593);
+            creator.Helptext_loop("BAG2_SWU_Error_010", 1609);
+            creator.Helptext_loop("BAG2_SWU_Error_020", 1625);
+
 
 
 

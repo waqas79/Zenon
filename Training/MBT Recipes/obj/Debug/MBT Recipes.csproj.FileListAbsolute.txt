@@ -1,0 +1,9 @@
+C:\01 Coding\Zenon\Training\MBT Recipes\bin\Debug\MBT Recipes.dll
+C:\01 Coding\Zenon\Training\MBT Recipes\bin\Debug\MBT Recipes.pdb
+C:\01 Coding\Zenon\Training\MBT Recipes\bin\Debug\MBT Recipes.scadaAddIn
+C:\01 Coding\Zenon\Training\MBT Recipes\bin\Debug\Scada.AddIn.Contracts.xml
+C:\01 Coding\Zenon\Training\MBT Recipes\obj\Debug\MBT Recipes.csproj.AssemblyReference.cache
+C:\01 Coding\Zenon\Training\MBT Recipes\obj\Debug\MBT Recipes.csproj.CoreCompileInputs.cache
+C:\01 Coding\Zenon\Training\MBT Recipes\obj\Debug\MBT Recipes.csproj.CopyComplete
+C:\01 Coding\Zenon\Training\MBT Recipes\obj\Debug\MBT Recipes.dll
+C:\01 Coding\Zenon\Training\MBT Recipes\obj\Debug\MBT Recipes.pdb
